@@ -13,3 +13,9 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
 * [akka-data-replication](https://github.com/patriknw/akka-data-replication) - An EARLY PREVIEW of a library for replication of data in an Akka cluster
     
 * [akka-raft](https://github.com/ktoso/akka-raft) - An akka based implementation of the Raft consensus algorithm.
+* 
+##IO
+*Akka io driver.*
+
+* [akka-io-stcp](https://github.com/arturopala/akka-io-sctp) - Akka I/O driver for SCTP protocol based on Oracle JDK 7/8 SCTP support.
+
