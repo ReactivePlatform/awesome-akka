@@ -4,6 +4,7 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
 - [Awesome AKKA](#awesome-akka)
     - [CRDT](#CRDT)
     - [IO](#IO)
+    - [MQ](#MQ)
     
     
 
@@ -19,3 +20,7 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
 
 * [akka-io-stcp](https://github.com/arturopala/akka-io-sctp) - Akka I/O driver for SCTP protocol based on Oracle JDK 7/8 SCTP support.
 
+##MQ
+*Message Queue*
+
+* [akka-rabbitmq](https://github.com/thenewmotion/akka-rabbitmq) - This small library allows you use RabbitMQ client via Akka Actors.
