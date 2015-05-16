@@ -3,7 +3,7 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
 
 - [Awesome AKKA](#awesome-akka)
     - [CRDT](#CRDT)
-    
+    - [IO](#IO)
     
     
 
