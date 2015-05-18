@@ -15,6 +15,7 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
     
 * [akka-raft](https://github.com/ktoso/akka-raft) - An akka based implementation of the Raft consensus algorithm.
 * 
+
 ##IO
 *Akka io driver.*
 
@@ -24,3 +25,4 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
 *Message Queue*
 
 * [akka-rabbitmq](https://github.com/thenewmotion/akka-rabbitmq) - This small library allows you use RabbitMQ client via Akka Actors.
+* [akka-kafka](https://github.com/sclasen/akka-kafka) - Actor based kafka consumer built on top of the high level kafka consumer.
