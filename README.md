@@ -1,4 +1,4 @@
-# awesome-akka
+# Awesome Akka [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of akka based nice frameworks, libraries and software. [awesome-akka](https://github.com/hepin1989/awesome-akka)
 
 ## Table of Contents
@@ -7,6 +7,7 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
     - [IO](#IO)
     - [MQ](#MQ)
     - [Visualization](#Visualization)
+    - [Extension](#Extension)
     
 
 ## CRDT
@@ -30,3 +31,7 @@ A collection of akka based nice frameworks, libraries and software. [awesome-akk
 ## Visualization
 
 * [akka-visualmailbox](https://github.com/ouven/akka-visualmailbox) - A visualizer for your Akka message flows
+
+## Extension
+
+* [ConstructR](https://github.com/hseeberger/constructr) - Coordinated (etcd, ...) cluster construction for dynamic (cloud, containers) environments
